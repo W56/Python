@@ -44,4 +44,3 @@ if __name__ == '__main__':
     length = len(x) - 1
     quick_sort(x, 0, length)
     print(x)
-
