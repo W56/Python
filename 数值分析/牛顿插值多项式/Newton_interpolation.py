@@ -19,10 +19,11 @@ def get_difference_quotient(X,Y):
 
     return A
 
-def newton_interpolation(X,Y,x,A):
+def newton_interpolation(X,Y,x):
     '''
     计算x点的插值
     '''
+    global A
     sum = Y[0]
     temp_sum = 1.0
     for j in range(1,len(X)):
@@ -40,7 +41,7 @@ data_x=np.linspace(np.min(X),np.max(X),1000,endpoint=True)
 data_y=[]
 A = get_difference_quotient(X,Y)
 for x in data_x:
-    data_y.append(newton_interpolation(X,Y,x,A))
+    data_y.append(newton_interpolation(X,Y,x))
 
 plt.title("newton_interpolation")
 plt.plot(X,Y,'s',label="original values")#蓝点表示原来的值
@@ -49,3 +50,5 @@ plt.xlabel('x')
 plt.ylabel('y')
 plt.legend(loc="upper left")#指定legend的位置右下角
 plt.show()
+
+print(A)
