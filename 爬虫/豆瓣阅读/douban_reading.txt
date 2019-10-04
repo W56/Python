@@ -1,0 +1,704 @@
+{
+  "name": "出版・好评榜",
+  "list": [
+    {
+      "readCount": 0,
+      "lastRank": 1,
+      "currentRank": 1,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "42448831",
+        "url": "/ebook/42448831/",
+        "title": "人为什么活着",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [
+          {
+            "url": "",
+            "name": "王小波"
+          }
+        ],
+        "origAuthor": [],
+        "cover": "https://img3.doubanio.com/view/ark_article_cover/retina/public/42448831.jpg?v=0",
+        "abstract": "假设我相信上帝（其实我是不信的），并且正在为善恶不分而苦恼，我就会请求上帝让我聪明到足以明辨是非的程度，而绝不会请他让我愚蠢到让人家给我灌输善恶标准的程度。假若上帝要我负起灌输的任务，我就要请求他让我在此项任务和下地狱中做一选择，并且我坚定不移的决心是：选择后者。 假设我相信上帝（其实我是不信的），并且正在为善恶不分而苦恼，我就会请求上帝让我聪明到足以明辨是非的程度，而绝不会请他让我愚蠢到让人家给我灌输善恶标准的程度。假若上帝要我负起灌输的任务，我就要请求他让我在此项任务和下地狱中做一选择，并且我坚定不移的决心是：选择后者。\n\n\n\n王小波（1952.5.13-1997.4.11），被誉为中国的乔伊斯兼卡夫卡，也是唯一一位两次获得世界华语文学界的重要奖项“台湾联合报文学奖中篇小说大奖”的中国大陆作家。其文学创作独特，富于想象力、幻想力之余，却不乏理性精神。代表作有《黄金时代》《白银时代》《黑铁时代》等。",
+        "editorHighlight": null,
+        "wordCount": 114586,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "文学经典",
+            "id": 131
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 4.5,
+        "ratingCount": 152,
+        "book": {
+          "averageRating": 4.35,
+          "ratingCount": 1591,
+          "url": "https://book.douban.com/subject/2339264/"
+        }
+      }
+    },
+    {
+      "readCount": 0,
+      "lastRank": 3,
+      "currentRank": 2,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "597728",
+        "url": "/ebook/597728/",
+        "title": "中国通史",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [
+          {
+            "url": "",
+            "name": "吕思勉"
+          }
+        ],
+        "origAuthor": [],
+        "cover": "https://img1.doubanio.com/view/ark_article_cover/retina/public/597728.jpg?v=0",
+        "abstract": "《中国通史》分上下编，上编是中国政治史，讲了中国历史大事及中国历史的演变，下编为中国文化史，分门别类地、有系统地叙述了社会政治制度、经济制度和文化学术的发展情况。本书不仅对想了解中国历史大事的读者有用，而且对掌握中国历史的各个方面，特别是社会经济、政治制度以及学术文化等系统的知识有很大的好处。\r\n\n\n《中国通史》是吕思勉先生在抗日战争时期上海成为“孤岛”的时候，为适应当时大学教学的需要而编写的。一经出版，畅销数十年，成为读者了解中国历史的最佳读物。原作上篇为中国文化史，下篇为为中国政治史，今为方便读者阅读，将中国政治史作为上篇，中国文化史作为下篇，文字做了少量的技术处理。特此说明。\n\n吕思勉(1884～1957)，字诚之。生于江苏常州，十二岁以后在父母师友的指导下读史书，16岁自学古史典籍。1905年起，先后在苏州东吴大学、江苏省立第一师范等校任教。1926年起，任上海光华大学国文系、历史系教授兼系主任。抗战期间，归乡闭户著书。抗战胜利后，重返光华大学。1949年后，任华东师范大学历史系教授。吕思勉先生是我国现代著名的史学家，知识渊博，学术造诣高。在中国通史、断代史和各种专史领域都做出了独到的贡献，为后人的学习研究留下了一笔宝贵的财富。与陈垣、陈寅恪、钱穆并称为史学四大家。著作宏富，有《中国通史》、《白话本国史》等。",
+        "editorHighlight": null,
+        "wordCount": 367110,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "文学经典",
+            "id": 131
+          },
+          {
+            "shortName": "历史",
+            "id": 147
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 4.4,
+        "ratingCount": 53,
+        "book": {
+          "averageRating": 4.35,
+          "ratingCount": 791,
+          "url": "https://book.douban.com/subject/4767483/"
+        }
+      }
+    },
+    {
+      "readCount": 0,
+      "lastRank": 2,
+      "currentRank": 3,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "34157247",
+        "url": "/ebook/34157247/",
+        "title": "月亮与六便士（作家榜经典）",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [],
+        "origAuthor": [
+          {
+            "url": "",
+            "name": "〔英〕毛姆"
+          }
+        ],
+        "cover": "https://img1.doubanio.com/view/ark_article_cover/retina/public/34157247.jpg?v=0",
+        "abstract": "银行家查尔斯，人到中年，事业有成，为了追求内心隐秘的绘画梦想，突然抛妻别子，弃家出走。他深知：人的每一种身份都是一种自我绑架，唯有失去是通向自由之途。在异国他乡，他贫病交加，对梦想却愈发坚定执着。他说：我必须画画，就像溺水的人必须挣扎。\r\n在经历种种离奇遭遇后，他来到南太平洋的一座孤岛，同当地一位姑娘结婚生子，成功创作出一系列惊世杰作。就在此时，他被绝症和双目失明击倒，临死之前，他做出了让所有人震惊的决定……\n\n\n\n威廉·萨默塞特·毛姆，英国小说家，剧作家，被誉为“故事圣手”。生于巴黎，十岁前父母双亡，由叔叔接回英国抚养，因身材矮小，说话结巴，总被同龄人欺凌，性格孤僻敏感。在文学界，毛姆是一个优雅、老到、冷漠的人性观察者，几乎每一个人都能在他的故事中看到自己，这也让毛姆成为二十世纪炙手可热的作家。\r\n他的后半生住在一座仙境般的别墅里，晚年几乎获得了整个欧洲文学界的一切殊荣。91岁时，逝于法国。经典代表作：《月亮与六便士》《人性的枷锁》。",
+        "editorHighlight": null,
+        "wordCount": 134335,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "世界名著",
+            "id": 113
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 4.7,
+        "ratingCount": 5614,
+        "book": {
+          "averageRating": 4.4,
+          "ratingCount": 97614,
+          "url": "https://book.douban.com/subject/26954760/"
+        }
+      }
+    },
+    {
+      "readCount": 0,
+      "lastRank": 12,
+      "currentRank": 4,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "1051657",
+        "url": "/ebook/1051657/",
+        "title": "罗生门",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [],
+        "origAuthor": [
+          {
+            "url": "",
+            "name": "〔日〕芥川龙之介 "
+          }
+        ],
+        "cover": "https://img1.doubanio.com/view/ark_article_cover/retina/public/1051657.jpg?v=0",
+        "abstract": "芥川龙之介是日本近代的杰出作家，有“鬼才”之誉。他的文学创作的最高成就在于短篇小说，《罗生门》、《莽丛中》、《鼻子》等都是芥川龙之介最广为人知的经典名篇。早期作品多取历史题材，重艺术构思、审美意趣，显示一定的唯美主义倾向，后转向写实。《经典译林•罗生门》收录了芥川龙之介的多篇中短篇小说。\n\n《罗生门》以风雨不透的布局将人推向生死抉择的极限，从而展示了“恶”的无可回避，第一次传递出作者对人的理解，对人的无奈与绝望。《地狱变》以血淋淋的惨厉的笔墨，写出了奴隶主骄奢淫侈，和奴隶们所遭受的悲惨的命运，更使人有惊心动魄的感受。\n\n芥川龙之介，他是日本大正时代小说家。他全力创作短篇小说，在短暂的一生中，写了超过150篇短篇小说。他的短篇小说篇幅很短，取材新颖，情节新奇甚至诡异。作品关注社会丑恶现象，但很少直接评论，而仅用冷峻的文笔和简洁有力的语言来陈述，便让读者深深感觉到其丑恶性，因此彰显其高度的艺术感染力，其代表作品如《罗生门》、《竹林中》已然成为世界性的经典之作。",
+        "editorHighlight": null,
+        "wordCount": 197152,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "世界名著",
+            "id": 113
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 4.4,
+        "ratingCount": 301,
+        "book": {
+          "averageRating": 4.45,
+          "ratingCount": 1842,
+          "url": "https://book.douban.com/subject/5378434/"
+        }
+      }
+    },
+    {
+      "readCount": 0,
+      "lastRank": 7,
+      "currentRank": 5,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "754089",
+        "url": "/ebook/754089/",
+        "title": "局外人",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [],
+        "origAuthor": [
+          {
+            "url": "",
+            "name": "〔法〕阿尔贝·加缪 "
+          }
+        ],
+        "cover": "https://img1.doubanio.com/view/ark_article_cover/retina/public/754089.jpg?v=0",
+        "abstract": "这个现代小说的主角看起来不过像是古代犬儒的翻版，并无诱人的力量。但是作者让我们去面对他，看到他雕刻般的栩栩如生的影像，看到那种难以征服的绝望是真实的，自觉的，而且永远是抹不去的。本书主要内容包括局外人、第一部、第二部、流亡与独立王国、不忠的女人、反叛者（混沌的头脑）、无声的愤怒、东道主、约拿斯和画家在工作中、长出来的巨石、附录《局外人》的社会现实人涵与人性内涵等。\r\n\n\n《局外人》是加缪小说的成名作和代表作之一，堪称20世纪整个西方文坛最具有划时代意义最著名小说之一，“局外人”也由此成为整个西方文学-哲学中最经典的人物形象和最重要的关键词之一。\n\n阿尔贝·加缪（Albert Camus，1913—1960），法国声名卓著的小说家、散文家和剧作家，“存在主义”文学的大师。1957年因“热情而冷静地阐明了当代向人类良知提出的种种问题”而获诺贝尔文学奖，是有史以来最年轻的诺奖获奖作家之一。\r\n加缪在他的小说、戏剧、随笔和论著中深刻地揭示出人在异己的世界中的孤独、个人与自身的日益异化，以及罪恶和死亡的不可避免，但他在揭示出世界的荒诞的同时却并不绝望和颓丧，他主张要在荒诞中奋起反抗，在绝望中坚持真理和正义，他为世人指出了一条基督教和马克思主义以外的自由人道主义道路。他直面惨淡人生的勇气，他“知其不可而为之”的大无畏精神使他在第二次世界大战之后不仅在法国，而且在欧洲并最终在全世界成为他那一代人的代言人和下一代人的精神导师。",
+        "editorHighlight": null,
+        "wordCount": 65165,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "外国现当代",
+            "id": 128
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 4.5,
+        "ratingCount": 3178,
+        "book": {
+          "averageRating": 4.45,
+          "ratingCount": 6103,
+          "url": "https://book.douban.com/subject/4246968/"
+        }
+      }
+    },
+    {
+      "readCount": 0,
+      "lastRank": 4,
+      "currentRank": 6,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "46023318",
+        "url": "/ebook/46023318/",
+        "title": "房思琪的初恋乐园",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [
+          {
+            "url": "",
+            "name": "林奕含"
+          }
+        ],
+        "origAuthor": [],
+        "cover": "https://img1.doubanio.com/view/ark_article_cover/retina/public/46023318.jpg?v=0",
+        "abstract": "令人心碎却无能为力的真实故事。\r\n向死而生的文学绝唱  打动万千读者的年度华语小说。\r\n李银河 戴锦华 骆以军 张悦然 冯唐 詹宏志 蒋方舟 史航 等多位学者作家社会名人郑重推荐。\r\n痛苦的际遇是如此难以分享，好险这个世界还有文学。\r\n\r\n我下楼拿作文给李老师改。他掏出来，我被逼到涂在墙上。老师说了九个字：“不行的话，嘴巴可以吧。”我说了五个字：“不行，我不会。”他就塞进来。那感觉像溺水。可以说话之后，我对老师说：“对不起。”有一种功课做不好的感觉。\r\n小小的房思琪住在金碧辉煌的人生里，她的脸和她可以想象的将来一样漂亮。补习班语文名师李国华是同一栋高级住宅的邻居。崇拜文学的小房思琪同样崇拜饱读诗书的李老师。\r\n有一天李老师说，你的程度这么好，不如每个礼拜交一篇作文给我吧，不收你周点费。思琪听话地下楼了。老师在家里等她，桌上没有纸笔。\r\n思琪的初恋是李老师。因为李老师把她翻面，把他的东西塞进去。那年的教师节思琪才十三岁，这个世界和她原本认识的不一样。如果这是爱情，为什么觉得暴力？为什么觉得被折断？为什么老师要一个女学生换过一个女学生？如果这不是爱情，那满口学问的李老师怎么能做了以后，还这么自信、无疑、无愧于心？\r\n故事必须重新讲过，与房思琪情同双胞的刘怡婷，接到警局通知，去带回神志不清，被判定疯了的房思琪。透过思琪的日记，怡婷得知思琪五年中的所见所思……\r\n嫁入钱家的许伊纹，是两位少女的忘年交，二十余岁的她，是两位少女的文学启蒙者同时也是丈夫家暴的沉默受害者……\r\n升入大学后的郭晓奇仍旧爱着高中时的补习教师李国华，而这位文质彬彬的补习教师并不只有平时人们眼中受人尊敬的老师形象的一面……\r\n这是一部惊人而特别的小说，小说作者既具有高度敏锐的感受力、又是一个近距离目击者，使这整件事像一个“幸存的标本”那样地被保留下来。整本书反覆地、用极度贴近被侵害者的视角，直直逼视那种“别人夺去你某个珍贵之物”的痛苦——且掠夺之人是以此为乐。\n\n\n\n林奕含（1991-2017），台湾作家。出生于台南，曾居台北。梦想是一面写小说，一面像大江健三郎所说的：从书呆子变成读书人，再从读书人变成知识分子。",
+        "editorHighlight": null,
+        "wordCount": 108202,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "青春",
+            "id": 118
+          },
+          {
+            "shortName": "传记回忆",
+            "id": 136
+          },
+          {
+            "shortName": "法律",
+            "id": 152
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 4.7,
+        "ratingCount": 2479,
+        "book": {
+          "averageRating": 4.6,
+          "ratingCount": 109353,
+          "url": "https://book.douban.com/subject/27614904/"
+        }
+      }
+    },
+    {
+      "readCount": 0,
+      "lastRank": 10,
+      "currentRank": 7,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "18361684",
+        "url": "/ebook/18361684/",
+        "title": "中国近代史",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [
+          {
+            "url": "",
+            "name": "蒋廷黻"
+          }
+        ],
+        "origAuthor": [],
+        "cover": "https://img3.doubanio.com/view/ark_article_cover/retina/public/18361684.jpg?v=0",
+        "abstract": "本书由民国极负盛名的历史学家、外交家蒋廷黻写作。堪称“反洗脑”入门历史读物，但作为自由派学者，蒋廷黻在书中并没有大放猛料，而是把一个特定事件的前因后果讲得清清楚楚，甚至理解到这个事件中心人物的心理。于是我们看到义和团为什么敢拿着他们的引魂幡、混天大旗、雷火扇、阴阳瓶、九连环、如意钩、火牌、飞剑及其他法宝，向各列强宣战；政治的交易是如何导致了排名世界第8的北洋舰队输给世界第11位的日本海军。曾国藩怎样从被打、自尽，一步步走到慈禧也要让三分的位置；四川一个县，为什么只活下900余人，而后来这900余人又被老虎吃去一大半。\n\n\n\n蒋廷黻 （1895-1965）湖南邵阳人。在政界，他被誉为国民党官员中“最知外交之人”。在学界，他是中国近代史、近代外交史研究的拓荒者。1912年赴美，1923年获哥伦比亚大学博士学位。1923年回国，受聘为南开大学历史教授，与梁启超同为南开大学历史系奠基人。1925年，调任清华大学任历史系主任，主政期间大力推进改革，一时陈寅恪、吴晗、萧一山等名师云集，堪称梦幻阵营。1932年，与胡适、丁文江共办《独立评论》，成抗战前夕舆论引导性刊物。1935年，弃学从政，以经世致用为理念关怀国家前途和社会进步，先后出任国民党政府行政院政务处长、驻苏联大使、驻联合国常任代表。1949年后又一度作为台湾当局驻美“大使”。1965年5月由驻美“大使”退休，同年10月纽约病逝。",
+        "editorHighlight": null,
+        "wordCount": 56678,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "经典著作",
+            "id": 143
+          },
+          {
+            "shortName": "历史",
+            "id": 147
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 4.4,
+        "ratingCount": 411,
+        "book": {
+          "averageRating": 4.5,
+          "ratingCount": 513,
+          "url": "https://book.douban.com/subject/26712428/"
+        }
+      }
+    },
+    {
+      "readCount": 0,
+      "lastRank": 6,
+      "currentRank": 8,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "34616560",
+        "url": "/ebook/34616560/",
+        "title": "小王子（作家榜经典）",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [],
+        "origAuthor": [
+          {
+            "url": "",
+            "name": "〔法〕安托万·德·圣-埃克苏佩里"
+          }
+        ],
+        "cover": "https://img3.doubanio.com/view/ark_article_cover/retina/public/34616560.jpg?v=0",
+        "abstract": "遥远星球上的小王子，与美丽而骄傲的玫瑰吵架负气出走，在各星球漫游中，小王子遇到了傲慢的国王，一个任性的酒鬼，一个唯利是图的商人，一个死守教条的地理学家，而后来到地球上，试图找到治 愈 孤独和痛苦的良方。 这时，他遇到一只渴望被驯养的狐狸，于是奇妙而令人惊叹的事情发生了……\n\n\n\n安托万·德·圣-埃克苏佩里（1900-1944），法国有史以来最具传奇性的诗人、小说家、飞行员。他最经典的代表作《小王子》，平均每六个法国人就拥有一本，迄今被翻译成317种语言，征服了全球亿万读者，成为出版史上前所未有的奇迹之书。为纪念圣-埃克苏佩里， 法国政府将他和小王子的形象印上钞票，国际天文学会分别以他的名字和小王子所在星球B612给宇宙的两颗小行星命名。",
+        "editorHighlight": null,
+        "wordCount": 27933,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "世界名著",
+            "id": 113
+          },
+          {
+            "shortName": "寓言童话",
+            "id": 139
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 4.7,
+        "ratingCount": 1419,
+        "book": {
+          "averageRating": 4.65,
+          "ratingCount": 1003,
+          "url": "https://book.douban.com/subject/26974262/"
+        }
+      }
+    },
+    {
+      "readCount": 0,
+      "lastRank": 14,
+      "currentRank": 9,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "1162265",
+        "url": "/ebook/1162265/",
+        "title": "追风筝的人",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [],
+        "origAuthor": [
+          {
+            "url": "",
+            "name": "〔美〕卡勒德·胡赛尼 "
+          }
+        ],
+        "cover": "https://img3.doubanio.com/view/ark_article_cover/retina/public/1162265.jpg?v=0",
+        "abstract": "2013年，小说《追风筝的人》出版整整十年。书中那句“为你，千千万万遍”感动了无数中国读者。8月，胡赛尼暌违六年的新作《群山回唱》中文版即将问世。\n\n★一个阿富汗作家的处女作\r\n★一部以史诗般的历史景观和荡气回肠的人性故事，深深地打动全世界各地亿万读者心的文学经典。\n\n“许多年过去了，人们说陈年旧事可以被埋葬，然而我终于明白这是错的，因为往事会自行爬上来。回首前尘，我意识到在过去二十六年里，自己始终在窥视着那荒芜的小径。”\r\n12岁的阿富汗富家少爷阿米尔与仆人哈桑情同手足。然而，在一场风筝比赛后，发生了一件悲惨不堪的事，阿米尔为自己的懦弱感到自责和痛苦，逼走了哈桑，不久，自己也跟随父亲逃往美国。\r\n成年后的阿米尔始终无法原谅自己当年对哈桑的背叛。为了赎罪，阿米尔再度踏上暌违二十多年的故乡，希望能为不幸的好友尽最后一点心力，却发现一个惊天谎言，儿时的噩梦再度重演，阿米尔该如何抉择？",
+        "editorHighlight": null,
+        "wordCount": 195185,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "外国现当代",
+            "id": 128
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 4.8,
+        "ratingCount": 5393,
+        "book": {
+          "averageRating": 4.45,
+          "ratingCount": 529281,
+          "url": "https://book.douban.com/subject/1770782/"
+        }
+      }
+    },
+    {
+      "readCount": 0,
+      "lastRank": null,
+      "currentRank": 10,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "33359591",
+        "url": "/ebook/33359591/",
+        "title": "人类简史：从动物到上帝（新版）",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [],
+        "origAuthor": [
+          {
+            "url": "",
+            "name": "〔以〕尤瓦尔·赫拉利"
+          }
+        ],
+        "cover": "https://img3.doubanio.com/view/ark_article_cover/retina/public/33359591.jpg?v=0",
+        "abstract": "《人类简史：从动物到上帝》是以色列新锐历史学家的一部重磅作品。从十万年前有生命迹象开始到21世纪资本、科技交织的人类发展史。十万年前，地球上至少有六个人种，为何今天却只剩下了我们自己？我们曾经只是非洲角落一个毫不起眼的族群，对地球上生态的影响力和萤火虫、猩猩或者水母相差无几。\r\n从认知革命、农业革命到科学革命，我们真的了解自己吗？我们过得更加快乐吗？我们知道金钱和宗教从何而来，为何产生吗？人类创建的帝国为何一个个衰亡又兴起？为什么地球上几乎每一个社会都有男尊女卑的观念？为何一神教成为为广泛接受的宗教？科学和资本主义如何成为现代社会重要的信条？理清影响人类发展的重大脉络，挖掘人类文化、宗教、法律、国家、信贷等产生的根源。这是一部宏大的人类简史，更见微知著、以小写大，让人类重新审视自己。\n\n\n\n尤瓦尔·赫拉利，1976年生，牛津大学历史学博士，现为耶路撒冷希伯来大学的历史系教授，青年怪才，全球瞩目的新锐历史学家。\r\n他擅长世界历史和宏观历史进程研究。在学术领域和大众出版领域都有很大的兴趣。\r\n他的《人类简史》一书让他一举成名，成为以色列超级畅销书，目前这本书已授20多个国家版权，在历史学之外，人类学、生态学、基因学等领域的知识信手拈来，根据图书改变的课程上传YOUTUBE后风靡全球，拥有大批青年粉丝。写书，视频课程之外，他还开设有专栏。",
+        "editorHighlight": null,
+        "wordCount": 260707,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "人类学",
+            "id": 146
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 4.7,
+        "ratingCount": 363,
+        "book": {
+          "averageRating": 4.55,
+          "ratingCount": 13177,
+          "url": "https://book.douban.com/subject/26953606/"
+        }
+      }
+    },
+    {
+      "readCount": 0,
+      "lastRank": 15,
+      "currentRank": 11,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "18361552",
+        "url": "/ebook/18361552/",
+        "title": "呐喊",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [
+          {
+            "url": "",
+            "name": "鲁迅"
+          }
+        ],
+        "origAuthor": [],
+        "cover": "https://img3.doubanio.com/view/ark_article_cover/retina/public/18361552.jpg?v=0",
+        "abstract": "《呐喊》是鲁迅的第一本小说集。1918年，新文化运动正值高峰。鲁迅因为和老朋友“金心异”（钱玄同）的一场关于“铁屋子”的谈话，创作了第一篇白话小说《狂人日记》。至1922年，五四大潮渐落，鲁迅应陈独秀之邀，将之前的小说结集出版，目的在于为新文化运动“呐喊”，并且慰藉那些在斗争中“奔驰的猛士”，使他们无畏地前进。新版《呐喊》完整收录鲁迅从1918至1922年所作小说十四篇、自序一篇，以及陈丹青先生专门为新版撰写的读后记长文一篇。\n\n\n\n鲁迅：1881.9.25（农历八月廿八）-1936.10.19，原名周树人，浙江绍兴人，1904年赴日本仙台学医，后弃医从文，成为中国现代文学的奠基人，1918年5月，发表中国现代文学史上第一部白话小说《狂人日记》，一生写作千万字，主要成就包括杂文、小说、散文、现代散文诗、翻译等。",
+        "editorHighlight": null,
+        "wordCount": 86126,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "中国现代",
+            "id": 126
+          },
+          {
+            "shortName": "中短篇集",
+            "id": 129
+          },
+          {
+            "shortName": "文学经典",
+            "id": 131
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 4.8,
+        "ratingCount": 158,
+        "book": {
+          "averageRating": 4.65,
+          "ratingCount": 1270,
+          "url": "https://book.douban.com/subject/26710670/"
+        }
+      }
+    },
+    {
+      "readCount": 0,
+      "lastRank": null,
+      "currentRank": 12,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "122615839",
+        "url": "/ebook/122615839/",
+        "title": "在别人的句子里",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [
+          {
+            "url": "",
+            "name": "陈以侃"
+          }
+        ],
+        "origAuthor": [],
+        "cover": "https://img1.doubanio.com/view/ark_article_cover/retina/public/122615839.jpg?v=1566459340",
+        "abstract": "这里什么都没有，只有读过残留的快感。评判一个作者合不合自己的心意，先别翻那本大部头，找篇聊阅读聊作家的文章，要是读来还没有下楼取快递心潮澎湃，那就先搁置一旁吧。\r\n前编辑、现翻译兼评论，总之靠写字吃饭的陈以侃，把阅读时的动心捕捉为文字，引诱我们直面文学、相信文学，再相信阅读。\n\n\n\n陈以侃，1985年出生于浙江嘉善，自由译者、书评人。曾在上海交大和复旦学习英文，2012至2015年在上海译文担任编辑。译有《海风中失落的血色馈赠》《毛姆短篇小说全集》《撒丁岛》《寻找邓巴》《致愤青》等。评论见于《上海书评》《单读》《鲤》《三联生活周刊》《书城》《外国文艺》等。",
+        "editorHighlight": null,
+        "wordCount": 126911,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "散文随笔",
+            "id": 132
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 3.9,
+        "ratingCount": 4,
+        "book": {
+          "averageRating": 4.25,
+          "ratingCount": 597,
+          "url": "https://book.douban.com/subject/34441048/"
+        }
+      }
+    },
+    {
+      "readCount": 0,
+      "lastRank": 11,
+      "currentRank": 13,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "3021999",
+        "url": "/ebook/3021999/",
+        "title": "1984",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [],
+        "origAuthor": [
+          {
+            "url": "",
+            "name": "〔英〕 乔治·奥威尔"
+          }
+        ],
+        "cover": "https://img1.doubanio.com/view/ark_article_cover/retina/public/3021999.jpg?v=0",
+        "abstract": "在20世纪的西方文学中,乔治·奥威尔可谓声名显赫。他凭着强烈的社会良知和敏锐的政治洞察力生动地再现了极权主义盛行时的社会生活,被称为“时代的良心……过去几十年英语文学中最伟大的道德力量”。其代表作《一九八四》和《动物农场》既是关于政治的讽喻小说，也是文学艺术的杰作。被翻译成六十多种文字,销售数千万册,并被作为英美大学的重要研读书目。\n\n他在小说中创造的“老大哥”、“双重思想”、“新话”等词汇都已收入权威的英语词典，甚至由他的姓衍生的形容词“奥威尔式”不断出现在记者笔下，足见其作品在英语国家影响之深远。此外,在世界各地几乎每年都举办大型的“奥威尔学术研究会”或“奥威尔电影纪念周”之类的学术活动。这一切构成了世界文坛中奇特的“奥威尔现象”。\n\n乔治·奥威尔（1903—1950）　英国作家、新闻记者、社会评论家、英语文体家。他的一生如彗星，短暂而耀眼。代表作《动物农场》和《一九八四》是世界文坛最为著名的政治讽喻小说，在他死后的影响远远超过了生前。两部作品被译成六十多种文字，全球销量超过四千万册。他创造的“老大哥”、“双重思想”和“新话”等词汇已经被收入权威的英语词典。",
+        "editorHighlight": null,
+        "wordCount": 188227,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "外国现当代",
+            "id": 128
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 4.7,
+        "ratingCount": 1182,
+        "book": {
+          "averageRating": 4.65,
+          "ratingCount": 2970,
+          "url": "https://book.douban.com/subject/25798623/"
+        }
+      }
+    },
+    {
+      "readCount": 0,
+      "lastRank": 8,
+      "currentRank": 14,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "32935413",
+        "url": "/ebook/32935413/",
+        "title": "现代艺术150年：一个未完成的故事",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [],
+        "origAuthor": [
+          {
+            "url": "",
+            "name": "〔英〕威尔·贡培兹"
+          }
+        ],
+        "cover": "https://img3.doubanio.com/view/ark_article_cover/retina/public/32935413.jpg?v=0",
+        "abstract": "要掌握现代艺术的游戏规则，你需要知道些什么？——涵括近百位艺术家及其代表作，梳理二十多个现代艺术流派的渊源流变，勾勒现代艺术的发展历程。这一百五十年来艺术究竟发生了什么？为什么到了今天，一件看似五岁小孩也能捣鼓出来的东西，居然会是艺术史上的旷世之作？\r\n这是艺术吗 ？这必须是艺术！——马列维奇的黑色正方形，蒙德里安的彩色格子，杜尚的小便池… 艺术不再必须与美有关，它更多地关乎理念。那些光怪陆离、五花八门的艺术流派，在揭开了其中的奥秘之后，实际上简单得惊人，但又绝妙乃至伟大。\r\n如果我们还能从一百五十多年前莫奈的《日出》、梵高的《星空》中，依稀辨认出艺术“原来”的模样，那么，一百五十年后安迪·沃霍尔的金汤宝罐头、达米恩·赫斯特的腌制鲨鱼，还有翠西·艾敏乱糟糟的床，足以让我们看到艺术的其他可能。回顾现代艺术一个半世纪的反叛之路，我们见证了一代又一代人如何变得愈发反叛、大胆、混乱。这背后，是艺术家对“何为艺术”的无尽追问，是他们对周遭世界的回应与抵抗。现代艺术的故事仍在继续，也许永远不会完成。\n\n\n\n威尔·贡培兹（Will Gompertz），1965年生，一个会说“单口相声”的艺术评论家，曾被纽约《创意》杂志评为世界上最有创意的50位思想家之一。贡培兹在泰特美术馆担任媒体主管达七年之久，并在BBC的邀请下，担任新成立的艺术频道的第一位主编。他二十多年来笔耕不辍 ，为《泰晤士报》和《卫报》撰写了很多艺术评论，并担任知名艺术批评网站 culturecritic.co.uk 的总编辑，也是英国众多前沿艺术机构的专业顾问。",
+        "editorHighlight": null,
+        "wordCount": 268266,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "历史",
+            "id": 147
+          },
+          {
+            "shortName": "其他",
+            "id": 228
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 4.7,
+        "ratingCount": 82,
+        "book": {
+          "averageRating": 4.55,
+          "ratingCount": 4721,
+          "url": "https://book.douban.com/subject/26854318/"
+        }
+      }
+    },
+    {
+      "readCount": 0,
+      "lastRank": null,
+      "currentRank": 15,
+      "wordCount": 0,
+      "donationCount": 0,
+      "voteCount": 0,
+      "works": {
+        "id": "120448037",
+        "url": "/ebook/120448037/",
+        "title": "挪威的森林",
+        "isOrigin": false,
+        "isColumn": false,
+        "isEssay": false,
+        "isGallery": false,
+        "isBundle": false,
+        "author": [],
+        "origAuthor": [
+          {
+            "url": "",
+            "name": "〔日〕村上春树"
+          }
+        ],
+        "cover": "https://img1.doubanio.com/view/ark_article_cover/retina/public/120448037.jpg?v=1563162084",
+        "abstract": "“死并非生的对立面，而作为生的一部分永存。”\r\n 《挪威的森林》是村上春树历经30年畅销不衰的长篇爱情小说，更是影响了几代人的青春名作。本书讲述了看似不善言谈但极具个人魅力的主角渡边，爱上了娴静阴郁的直子，同时也被热情率真的少女绿子所吸引的爱情纠葛故事。在拯救这个迷失自我的直子的过程中，渡边逐渐失去自己的方向；而热情率真的少女绿子的出现，如同一片充满希望的绿洲，吸引着苦闷迷惘的渡边。他在这场爱情纠葛中，不断进行着自我的救赎和成长……\n\n\n\n村上春树，当代日本小说家。29岁开始写作，第一部作品《且听风吟》即获得日本群像新人赏，1987年第五部长篇小说《挪威的森林》在日本畅销四百万册，广泛引起“村上现象”。村上春树的作品展现写作风格深受欧美作家影响的轻盈基调，少有日本战后阴郁沉重的文字气息。被称作第一个纯正的“二战后时期作家”，并誉为日本1980年代的文学旗手。",
+        "editorHighlight": null,
+        "wordCount": 213089,
+        "wordCountUnit": "字",
+        "kinds": [
+          {
+            "shortName": "外国现当代",
+            "id": 128
+          }
+        ],
+        "highlightTags": [],
+        "averageRating": 4.6,
+        "ratingCount": 26,
+        "book": {
+          "averageRating": 4.3,
+          "ratingCount": 2872,
+          "url": "https://book.douban.com/subject/27200257/"
+        }
+      }
+    }
+  ],
+  "background": {
+    "color": "",
+    "url": "https://img3.doubanio.com/f/ark/715f589cc834f464fa4d26c9f42252ac65f34bf0/pics/ranking/bg-ebook-highly_rated_sales.png"
+  },
+  "fullName": "豆瓣读书 8.5 分以上好书销量 TOP 15",
+  "type": "highly_rated_sales",
+  "channel": "ebook"
+}
